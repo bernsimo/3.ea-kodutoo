@@ -1,6 +1,6 @@
 # 3. kodutöö – Chrome extension
 
-Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetud. Soovi korral võib ka teha Firefox'ile.
+Blockmaster 5000 extenxion laseb blokeerida lehekülgi. Samuti näitab see kuupäeva ja kella sekunditäpsusega
 
 **Töö on soovitatav teha kahekesi!**
 
